@@ -122,7 +122,8 @@ QuantumDEX is built on the thesis that the next generation of DeFi infrastructur
 ## Demo
 
 - **Live Demo:** [dex.quantumpaychain.org](https://dex.quantumpaychain.org)
-- **Demo Video:** *(link to be added)*
+- **Demo Video (YouTube):** [youtu.be/FWLdytj8N0I](https://youtu.be/FWLdytj8N0I)
+- **Demo Video (TikTok):** [vt.tiktok.com/ZS4kH3LVj](https://vt.tiktok.com/ZS4kH3LVj/)
 
 ---
 
