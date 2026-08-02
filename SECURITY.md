@@ -8,7 +8,7 @@ QuantumDEX takes the security of user funds and platform infrastructure seriousl
 
 **Do not** open a public GitHub issue for security vulnerabilities.
 
-Instead, please email: **security@quantumpaychain.org**
+Instead, please email: **contact@quantumpaychain.org**
 
 Include:
 - A description of the vulnerability
